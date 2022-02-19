@@ -36,3 +36,4 @@ jobs:
       - name: Print RESULT Message for CI Job finish
         run : echo "CI Pipeline part has been finished great"
 
+
